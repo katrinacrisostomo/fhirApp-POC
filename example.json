@@ -1,0 +1,20 @@
+{
+	"resourceType": "Patient",
+	"text": {
+		"name": [
+			{
+			"family": [
+				"PEREZ3"
+				],
+			"given": [
+				"GONZALO3"
+				]
+			}
+		],
+		"gender": "male",
+		"birthDate": "1964-03-20"
+		},
+	"search": {
+	    "mode": "match"
+	}
+}
